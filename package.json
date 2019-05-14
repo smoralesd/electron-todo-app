@@ -1,14 +1,14 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-todo-app",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "tutorial 'Build a Todo App with Electron' from https://codeburst.io/build-a-todo-app-with-electron-d6c61f58b55a",
   "main": "dist/main/main.js",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/smoralesd/electron-todo-app",
   "keywords": [
     "Electron",
     "quick",
@@ -16,7 +16,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "smoralesd",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^5.0.0",
